@@ -1,4 +1,4 @@
-Link: 
+Link: [medium yazi link](https://ibrahim-halici.medium.com/macos-içerisinde-docker-ile-mssql-server-kullanmak-ve-veri-tabanı-kurtarmak-ac8b3ed0775b)
 
 
 
